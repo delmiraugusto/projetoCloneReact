@@ -11,7 +11,7 @@ Botões e Input - Componentes reutilizáveis criados para os botões e o campo d
 Funcionalidades Principais
 Navbar: Exibe uma barra de navegação fixa no topo da página com o logo da OLX à esquerda. O estilo do logo foi definido para ser consistente com a marca.
 
-##Pagina de Login:
+<h1>Pagina de Login:</h1>
 
 Um campo de entrada para o e-mail do usuário.
 Botão de "Continuar" que simula o login.
