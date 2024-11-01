@@ -23,7 +23,7 @@ Tecnologias Utilizadas
 ReactJS: Biblioteca JavaScript para construir interfaces de usuário.
 Styled Components: Biblioteca para estilização de componentes em React.
 
-![Tela de login clonada](https://github.com/delmiraugusto/projetoCloneReact/blob/main/src/assets/PaginaHome.png)
+![Tela de login clonada](https://github.com/delmiraugusto/projetoCloneReact/blob/main/src/assets/TelaLoginOlx.png)
 
 ![Tela Home clonada](https://github.com/delmiraugusto/projetoCloneReact/blob/main/src/assets/PaginaHome.png)
 
